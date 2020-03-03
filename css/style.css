@@ -1,1 +1,4 @@
-
+#bg-image {
+    background:url(../img/home.jpg);
+    height: 100vh;
+}
